@@ -14,7 +14,7 @@ public class Main {
 //        for (int i = 2; i <soCanKT/2; i ++){
 //            if (soCanKT%i==0){
 //                ketQua =false;
-//            }
+//            }git config --global --unset user.namegit config --global --unset user.name
 //        }
 //        System.out.println(ketQua);
 //    }
